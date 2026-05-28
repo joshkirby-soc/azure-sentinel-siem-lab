@@ -37,3 +37,7 @@ The VM began being exposed to the internet at 1300. Within 20 minutes, the first
 The first 4 attempts were from Cape Town, South Africa. The attempts targeted the username 'AZUREUSER' and 'AZUREADMIN'. Based on research, this is a common default credential guess used by automated brute-force tools.
 
 <img width="1043" height="635" alt="WindVM-Map-Day1" src="https://github.com/user-attachments/assets/6e660b30-d3c9-461e-b0bb-5069f5dcee42" />
+
+## KQL Query Used
+
+<img width="1084" height="800" alt="KQL-Query-Results" src="https://github.com/user-attachments/assets/6aea15cd-9932-4054-b0e1-4c22ed4bafc4" />
